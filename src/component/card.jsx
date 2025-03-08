@@ -20,7 +20,7 @@ function card() {
         <p className="text-sm opacity-0 transition-opacity duration-500 group-hover:opacity-100 group-hover:mt-0 group-hover:min-w-full delay-200 p-[0%]">
         The Dice Guessing Game is an interactive ReactJS-based game where users guess the outcome of a dice roll. It combines simple state management and event handling to create an engaging experience.
         <a href="https://github.com/Ni03shan/Dice-Guessing-Game" >
-          <img src="src/assets/github.png" alt="" className='h-7 w-7 mt-4 ml-38' />
+          <img src="https://i.ibb.co/VW9PNDSt/github.png" alt="" className='h-7 w-7 mt-4 ml-38' />
         </a>
         </p>
       </div>
@@ -42,7 +42,7 @@ function card() {
         </div>
         <p className="text-sm opacity-0 transition-opacity duration-500 group-hover:opacity-100 group-hover:mt-0 group-hover:min-w-full delay-200 p-[0%]">
         Foody Zone is a user-friendly food menu website where users can browse a variety of dishes, view prices, and search for specific items effortlessly, making it easy to explore and discover delicious meals.  <a href="" >
-          <img src="src/assets/github.png" alt="" className='h-7 w-7 mt-4 ml-38' />
+          <img src="https://i.ibb.co/VW9PNDSt/github.png" alt="" className='h-7 w-7 mt-4 ml-38' />
         </a>
         </p>
       </div>
